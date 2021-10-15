@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328781946454",
+    "firebase_url": "https://critical-x-quiz-1e1ce.firebaseio.com",
+    "project_id": "critical-x-quiz-1e1ce",
+    "storage_bucket": "critical-x-quiz-1e1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328781946454:android:3fcf5a913a7f40e2b965f7",
+        "android_client_info": {
+          "package_name": "com.burhan.critical_x_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328781946454-quhacnmbdvtlng3742jassdjqjea1at0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LjlY86HtdK95MLCh5NuVWnUAF27sDPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328781946454-quhacnmbdvtlng3742jassdjqjea1at0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<svg height="260.331" viewBox="0 0 376 260.331" width="376" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="a">
+            <path
+                d="M1008.083-90h374.393V132.549s-.58,57.376-130.4,30.716c0,0-113.593-45.205-209.8-41.728,0,0-35.932,2.318-34.773-41.728Z"
+                fill="#fd5959" transform="translate(-1631.476 90)" />
+        </clipPath>
+    </defs>
+    <g transform="translate(0 0)">
+        <path
+            d="M1008.083-90h374.393V132.549s-.433,42.888-84.451,37.275a246.2,246.2,0,0,1-64.085-13.181c-35.879-12.421-118.763-37.74-191.664-35.1,0,0-35.932,2.318-34.773-41.728Z"
+            fill="#fd5959" transform="translate(-1007.476 90)" />
+        <g clip-path="url(#a)" transform="translate(625)">
+            <g transform="translate(-624)">
+                <g fill="none" opacity="0.2" stroke="#fff" stroke-width="2"
+                    transform="translate(97 22)">
+                    <circle cx="91" cy="91" r="91" stroke="none" />
+                    <circle cx="91" cy="91" fill="none" r="90" />
+                </g>
+                <g fill="none" opacity="0.2" stroke="#fff" stroke-width="2"
+                    transform="translate(70 -5)">
+                    <circle cx="118" cy="118" r="118" stroke="none" />
+                    <circle cx="118" cy="118" fill="none" r="117" />
+                </g>
+                <g fill="none" opacity="0.2" stroke="#fff" stroke-width="2"
+                    transform="translate(35 -40)">
+                    <circle cx="153" cy="153" r="153" stroke="none" />
+                    <circle cx="153" cy="153" fill="none" r="152" />
+                </g>
+                <g fill="none" opacity="0.2" stroke="#fff" stroke-width="2"
+                    transform="translate(-5 -80)">
+                    <circle cx="193" cy="193" r="193" stroke="none" />
+                    <circle cx="193" cy="193" fill="none" r="192" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
